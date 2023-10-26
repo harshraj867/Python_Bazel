@@ -1,4 +1,2 @@
-#hi
 print("hello")
-#hello
 
